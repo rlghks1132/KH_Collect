@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xee9Fd5a181dC971A513b8D5151186ACef1589DE7",
+  "SCAN_LINK": "https://baobab.scope.klaytn.com/account/0xee9Fd5a181dC971A513b8D5151186ACef1589DE7",
+  "NETWORK": {
+    "NAME": "kaikas",
+    "SYMBOL": "klay",
+    "ID": 137
+  },
+  "NFT_NAME": "KH TEST Collection",
+  "SYMBOL": "KTCNFT",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 50,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/kh007",
+  "SHOW_BACKGROUND": true
+}
